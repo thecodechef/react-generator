@@ -2,7 +2,7 @@
   "name": "react-generator",
   "description": "",
   "homepage": "https://github.com/thecodechef/react-generator#readme",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "main": "index.js",
   "bin": {
     "react-app-generator": "./bin/rg"
