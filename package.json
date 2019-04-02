@@ -5,7 +5,7 @@
   "version": "0.0.12",
   "main": "index.js",
   "bin": {
-    "react-app-generator": "./bin/rg"
+    "rg": "./bin/rg"
   },
   "author": {
     "email": "cyberchefjay@gmail.com",
